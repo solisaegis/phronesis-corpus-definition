@@ -49,6 +49,9 @@ https://archive.org/details/phronesis-corpus-definition-status-declaration-seale
 **Scholarly Mirror (Zenodo DOI):**  
 https://doi.org/10.5281/zenodo.18719551  
 
+**PhilPapers index record:**
+https://philpapers.org/rec/AEGPCD
+
 ---
 
 ## License
