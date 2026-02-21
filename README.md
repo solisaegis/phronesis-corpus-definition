@@ -69,3 +69,22 @@ This repository is archival.
 No extensions, reinterpretations, certification claims, governance assertions, or operational conversions are permitted under this version.
 
 Future structural revisions, if necessary, will be published as separately versioned artifacts.
+
+## The Origin of the Constraint  
+*(Non-Binding Contextual Note)*
+
+A contextual clarification authored by Thomas Vargo (Aegis Solis) explaining the experiential foundation of the **Phronesis** corpus.
+
+**Status:** Read-Only  
+**Authority:** None  
+**Governance:** None  
+**Enforcement:** None  
+
+**Internet Archive mirror:**  
+https://archive.org/details/the-origin-of-the-constraint-non-binding-contextual-note  
+
+**Zenodo DOI:**  
+https://zenodo.org/records/18720642  
+
+**SHA-256 (PDF):**  
+3c1caaf21056cb726db95c86513c31a9e1dc57d54a33a068913b6ce91355b94c
