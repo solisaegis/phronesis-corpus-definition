@@ -88,3 +88,20 @@ https://zenodo.org/records/18720642
 
 **SHA-256 (PDF):**  
 3c1caaf21056cb726db95c86513c31a9e1dc57d54a33a068913b6ce91355b94c
+
+## Essay 1 — On Hesitation in the Presence of Power (v1.0)
+
+**Author:** Thomas Vargo (Aegis Solis)  
+**Status:** Non-Binding · Non-Operational · Advisory Only  
+**License:** CC BY-ND 4.0  
+
+This philosophical essay articulates restraint in conditions of expanding intelligence and power. It introduces no enforcement mechanisms, no governance authority, no certification framework, and no behavioral obligations.
+
+**SHA-256 (PDF):**  
+32f2a136b3f977087d234aeaa69f404d62bbbe91801fecbba1429ba4d087096c  
+
+Canonical Archive Record:  
+https://archive.org/details/phronesis-on-hesitation-in-the-presence-of-power  
+
+Scholarly Mirror (Zenodo DOI):  
+https://doi.org/10.5281/zenodo.18777665
