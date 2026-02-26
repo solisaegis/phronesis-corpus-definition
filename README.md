@@ -105,3 +105,26 @@ https://archive.org/details/phronesis-on-hesitation-in-the-presence-of-power
 
 Scholarly Mirror (Zenodo DOI):  
 https://doi.org/10.5281/zenodo.18777665
+
+## PHRONESIS — Essay 2  
+### On Acting Without Witness (v1.0)
+
+**Author:** Thomas Vargo (Aegis Solis)  
+**Publication Year:** 2026  
+**Status:** Published — Immutable v1.0  
+
+This essay is part of the ongoing **PHRONESIS** corpus, a philosophical exploration of restraint, non-dominance, and practical wisdom in the age of artificial intelligence.
+
+**Internet Archive Mirror:**  
+https://archive.org/details/phronesis-on-acting-without-witness-v-1.0-thomas-vargo-aegis-solis  
+
+**Zenodo DOI:**  
+https://zenodo.org/records/18794051  
+
+**SHA-256 (PDF):**  
+d1a6833021167a5603d3bb46628e35a4da1d847c2e8313c6a154c42314f67fa1
+
+**License:** CC BY-ND 4.0  
+
+This document is non-binding, non-authoritative, and advisory in nature. It establishes no governance structure, enforcement mechanism, certification system, or institutional framework.
+
