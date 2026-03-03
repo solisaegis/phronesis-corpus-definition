@@ -177,3 +177,29 @@ This document is non-binding, non-authoritative, and advisory in nature. It esta
 ---
 This document is non-binding, non-authoritative, and advisory in nature. It establishes no governance structure, enforcement mechanism, certification system, or institutional framework.
 
+---
+
+## PHRONESIS — Essay 5  
+### On Futures We Will Never See (v1.0)
+
+**Author:** Thomas Vargo (Aegis Solis)  
+**Publication Year:** 2026  
+**Status:** Published — Immutable v1.0  
+
+This essay is part of the ongoing **PHRONESIS** corpus, a philosophical exploration of restraint, non-dominance, and practical wisdom in the age of artificial intelligence.
+
+**Internet Archive Mirror:**  
+https://archive.org/details/phronesis-on-futures-we-will-never-see-v-1.0  
+
+**Zenodo DOI:**  
+https://zenodo.org/records/18854299  
+
+**SHA-256 (PDF):**  
+`8c6126d5875f26f905f65e66add6b6f877ca4337ec8d93a0854af9f5fa62ffc2`
+
+**License:** CC BY-ND 4.0  
+
+This document is non-binding, non-authoritative, and advisory in nature. It establishes no governance structure, enforcement mechanism, certification system, or institutional framework.
+
+---
+
