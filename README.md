@@ -203,3 +203,20 @@ This document is non-binding, non-authoritative, and advisory in nature. It esta
 
 ---
 
+## PHRONESIS — Essay 6
+### On Power Without Domination (v1.0)
+
+Author: Thomas Vargo (Aegis Solis)  
+Year: 2026  
+Status: Published — Immutable v1.0  
+
+Internet Archive:
+https://archive.org/details/phronesis-on-power-without-domination-v-1.0
+
+Zenodo DOI:
+https://zenodo.org/records/18868841
+
+SHA-256 (PDF):
+5f89a93faeca4d1d4b610521c34eb0921071f4ae93137d8e48f07cf9483bb146
+
+License: CC BY-ND 4.0
