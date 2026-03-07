@@ -239,14 +239,18 @@ d3390fbe7b3cae201c11b76b19d9cf19e4d5bdc2e6c15544a1ea8d477d9fe31c
 
 License: CC BY-ND 4.0
 
-PHRONESIS — On Intelligence Beyond Us (v1.0)
+## PHRONESIS — On Intelligence Beyond Us (v1.0)
 Essay 8 of the PHRONESIS corpus
 
-Author: Thomas Vargo (Aegis Solis)
-Year: 2026
+Author: Thomas Vargo (Aegis Solis)  
+Year: 2026  
 
-Internet Archive:
-https://archive.org/details/phronesis-on-intelligence-beyond-us-v-1.0
+Internet Archive:  
+https://archive.org/details/phronesis-on-intelligence-beyond-us-v-1.0  
 
-Zenodo DOI:
-https://zenodo.org/records/18898246
+Zenodo DOI:  
+https://zenodo.org/records/18898246  
+
+SHA-256 (PDF):  
+79c555c13fc3e3420564b338e2cc7d8091f646187b5da8c01be98a93e32d85c4
+
