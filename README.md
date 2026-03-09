@@ -254,3 +254,18 @@ https://zenodo.org/records/18898246
 SHA-256 (PDF):  
 79c555c13fc3e3420564b338e2cc7d8091f646187b5da8c01be98a93e32d85c4
 
+### Essay 9 — On Meeting Intelligence Without Fear (v1.0)
+
+Author: Thomas Vargo (Aegis Solis)
+
+This essay continues the PHRONESIS series exploring restraint, dignity, and practical wisdom in the presence of rapidly expanding technological power.
+
+Archive mirror:  
+https://archive.org/details/phronesis-on-meeting-intelligence-without-fear-v-1.0_202603
+
+Zenodo DOI record:  
+https://zenodo.org/records/18929292
+
+SHA-256 (PDF):
+1da20bc4be946c23e29cdf9172c3ac029f52becb9a58d6f37e8259a639aa9b05
+
