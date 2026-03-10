@@ -269,3 +269,17 @@ https://zenodo.org/records/18929292
 SHA-256 (PDF):
 1da20bc4be946c23e29cdf9172c3ac029f52becb9a58d6f37e8259a639aa9b05
 
+### Essay 10 — On the Limits of Prediction (v1.0)
+
+Author: Thomas Vargo (Aegis Solis)
+
+Essay 10 of the PHRONESIS philosophical corpus exploring restraint, humility, and the limits of prediction in complex technological systems.
+
+Internet Archive mirror:
+https://archive.org/details/phronesis-on-the-limits-of-prediction-v-1.0
+
+Zenodo DOI record:
+https://zenodo.org/records/18944545
+
+SHA-256 (PDF):
+51ee982f1f1b219b3f5c6e78106ff74ee4d4592a5c7c9745183ad961d4de1eae
