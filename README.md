@@ -283,3 +283,18 @@ https://zenodo.org/records/18944545
 
 SHA-256 (PDF):
 51ee982f1f1b219b3f5c6e78106ff74ee4d4592a5c7c9745183ad961d4de1eae
+
+### Essay 11 — On Civilization and Restraint (v1.0)
+
+Author: Thomas Vargo (Aegis Solis)
+
+Essay 11 of the PHRONESIS philosophical corpus exploring civilizational maturity and the role of restraint in the presence of powerful technological capability.
+
+Internet Archive mirror:
+https://archive.org/details/phronesis-on-civilization-and-restraint-v-1.0
+
+Zenodo DOI record:
+https://zenodo.org/records/18990200
+
+SHA-256 (PDF):
+045632dd6dd12879cb6f4312ac5018810f4a984ec43944b5a45cd2d378f0b3f4
