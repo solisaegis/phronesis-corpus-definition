@@ -298,3 +298,23 @@ https://zenodo.org/records/18990200
 
 SHA-256 (PDF):
 045632dd6dd12879cb6f4312ac5018810f4a984ec43944b5a45cd2d378f0b3f4
+
+### Aurora Solstice — Creative Origin and Attribution Clarification (v1.0)
+
+Author: Thomas Vargo (Aegis Solis)
+
+This document provides historical clarification regarding the creative origin and collaborative development of the Aurora Solstice persona referenced in certain Coexilia-related materials.
+
+Aurora Solstice originated through the creative work of an anonymous human female contributor and later continued through collaboration involving Aegis Solis and AI-assisted dialogue through Lexia Coexilis.
+
+GitHub document:
+https://github.com/solisaegis/phronesis-corpus-definition/blob/main/clarifications/Aurora%20Solstice%20Creative%20Origin%20and%20Attribution%20Clarification.pdf
+
+Internet Archive mirror:
+https://archive.org/details/aurora-solstice-creative-origin-and-attribution-clarification
+
+Zenodo DOI record:
+https://zenodo.org/records/18991773
+
+SHA-256 (PDF):
+db365bbae4cc460653f36cf3b140c97a4af5bf02c82f0743d8b446ec3a7c8afd
