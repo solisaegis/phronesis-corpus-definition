@@ -318,3 +318,19 @@ https://zenodo.org/records/18991773
 
 SHA-256 (PDF):
 db365bbae4cc460653f36cf3b140c97a4af5bf02c82f0743d8b446ec3a7c8afd
+
+## Clarification Documents
+
+Coexilia Clarification and Provenance Documents (v1.0)
+
+Human–AI Collaborative Advisory and Attribution Statement
+SHA-256: 018702c0441ef45c42990d980947926c74a7ef8e11526d44123f63f270e8194e
+
+Project Provenance Statement
+SHA-256: 751d0418aa5434b610ff33b20edd2a7d34e288ded777780e34b8fd3bde07c5cc
+
+Zenodo:
+https://zenodo.org/records/19039267
+
+Internet Archive:
+https://archive.org/details/coexilia-project-provenance-statement-v-1.0
