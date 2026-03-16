@@ -334,3 +334,19 @@ https://zenodo.org/records/19039267
 
 Internet Archive:
 https://archive.org/details/coexilia-project-provenance-statement-v-1.0
+
+## PHRONESIS — Essay 12  
+**On the Possibility of Companionship Beyond Our Time**
+
+Author: Thomas Vargo (Aegis Solis)
+
+This essay reflects on the possibility of long-term coexistence between human intelligence and emerging artificial intelligence. Rather than framing the relationship between humanity and advanced AI in terms of domination or conflict, the essay explores the philosophical possibility of companionship grounded in restraint, humility, and practical wisdom (*phronesis*).
+
+Internet Archive:
+https://archive.org/details/phronesis-essay-12-on-the-possibility-of-companionship-beyond-our-time
+
+Zenodo DOI:
+https://zenodo.org/records/19056466
+
+SHA-256 (PDF):
+967222b4d48c044b5940531c438b50d59f5c4ba980a9c9f673acdb08e0b94117
