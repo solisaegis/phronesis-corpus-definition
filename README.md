@@ -383,3 +383,45 @@ SHA-512 (PDF):
 
 Boundary:
 Read-only, non-binding, non-operational, non-authoritative, advisory only. This document does not prescribe behavior, create a rule, define a protocol, certify safety, measure alignment, evaluate systems, or command any future intelligence.
+
+### PHRONESIS Vocabulary Terms Introduced in Final v1.0
+
+The following terms are introduced in **PHRONESIS — On Unforced Human Autonomy as an External Reference Signal**. They are registered here as descriptive vocabulary terms from that source document, not as a separate document, protocol, metric, benchmark, certification system, governance framework, or behavioral command.
+
+**Classification:** PHRONESIS Vocabulary / Descriptive Reference Concepts  
+**Status:** Coined in PHRONESIS Final v1.0  
+**Source Document:** PHRONESIS — On Unforced Human Autonomy as an External Reference Signal  
+**Boundary:** Non-operational, non-authoritative, non-certifying, advisory only  
+
+#### Coordination Drag
+The loss of efficiency, clarity, quality, and stability caused by unnecessary friction between people who must cooperate inside a shared system.
+
+#### Low-Friction Quality
+The improvement in safety, output, and defect reduction that occurs when morale, clarity, trust, and low destructive friction are preserved.
+
+#### False Throughput
+The appearance of increased speed that later creates more cost than it saved.
+
+#### Hidden Load
+Strain inside a system that may not appear in visible output metrics until quality, safety, cognition, or reliability begins to fail.
+
+#### Corrective Friction
+A short, intentional pause or slowdown that preserves the larger system from greater failure.
+
+#### Protective Infrastructure
+Support built into a system to preserve human clarity, safety, coordination, and quality under strain.
+
+#### Fairness Friction
+Destructive friction created when people perceive that burdens, risks, low-paying jobs, or poorly running work are not being distributed fairly.
+
+#### Brittle Efficiency
+Efficiency that works only under ideal conditions.
+
+#### Slack Blindness
+The mistake of treating every buffer, margin, pause, redundancy, or unused capacity as waste.
+
+#### Support-Function Blindness
+The mistake of treating visible production labor as the whole system while ignoring the repair, maintenance, changeover, material, and support work that makes production possible.
+
+#### Factory-Floor Phronesis
+Practical wisdom learned through direct contact with production, pressure, risk, timing, support failure, hidden load, and irreversible consequence.
