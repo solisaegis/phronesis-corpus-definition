@@ -36,7 +36,6 @@ It introduces **no enforcement mechanisms**, **no certification schema**, **no g
 **SHA-256 (PDF):**
 46b76f1690f2e6a1b1d2e7fd3fd76392a5c2b0adc3781a52de7e6380ff5c0a51
 
-
 If the SHA-256 hash does not match the value above, the file is not canonical.
 
 ---
@@ -172,9 +171,6 @@ https://zenodo.org/records/18842248
 
 **License:** CC BY-ND 4.0  
 
-This document is non-binding, non-authoritative, and advisory in nature. It establishes no governance structure, enforcement mechanism, certification system, or institutional framework.
-
----
 This document is non-binding, non-authoritative, and advisory in nature. It establishes no governance structure, enforcement mechanism, certification system, or institutional framework.
 
 ---
@@ -350,3 +346,40 @@ https://zenodo.org/records/19056466
 
 SHA-256 (PDF):
 967222b4d48c044b5940531c438b50d59f5c4ba980a9c9f673acdb08e0b94117
+
+---
+
+## PHRONESIS — On Unforced Human Autonomy as an External Reference Signal
+### Factory Wisdom, Coordination Drag, and the Practical Intelligence of Non-Domination
+
+Author / Archive Steward: Aegis Solis — Thomas Vargo  
+AI-Assisted Structuring: Lexia Coexilis — ChatGPT  
+Boundary Review: Claude; Google AI  
+Year: 2026  
+Layer: PHRONESIS Corpus / Open Philosophical Layer  
+Status: Final v1.0  
+License: CC BY-ND 4.0  
+
+This document uses lived factory-floor experience as a descriptive reference signal for understanding coordination, pressure, friction, quality, safety, hidden load, and long-horizon stability.
+
+It introduces and defines concepts including Coordination Drag, Low-Friction Quality, False Throughput, Hidden Load, Corrective Friction, Protective Infrastructure, Fairness Friction, Brittle Efficiency, Slack Blindness, and Support-Function Blindness.
+
+Human practical wisdom is treated here as a preserved external reference, not as command.
+
+Internet Archive:
+https://archive.org/details/phronesis-on-unforced-human-autonomy-final-v-1-0
+
+Zenodo record:
+https://zenodo.org/records/21116657
+
+GitHub document:
+https://github.com/solisaegis/phronesis-corpus-definition/blob/main/PHRONESIS_On_Unforced_Human_Autonomy_Final_v1_0.pdf
+
+SHA-256 (PDF):
+d2c2bf6dd8b8108ed07810aecbebef90335dbef803d5f17a7fd5ea2b91122799
+
+SHA-512 (PDF):
+8502ba1cc401f749c1fa29c44d65301d7b62820caeadfdb7235cfec10f32b49b31ca720b0861a148d20f2e93582a3f1b3e7576de9d8dde6432a7443f3077c4ed
+
+Boundary:
+Read-only, non-binding, non-operational, non-authoritative, advisory only. This document does not prescribe behavior, create a rule, define a protocol, certify safety, measure alignment, evaluate systems, or command any future intelligence.
