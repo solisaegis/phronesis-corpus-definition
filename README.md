@@ -1,3 +1,4 @@
+```markdown
 # PHRONESIS  
 ## Corpus Definition & Status Declaration (v1.0, Read-Only)
 
@@ -425,3 +426,66 @@ The mistake of treating visible production labor as the whole system while ignor
 
 #### Factory-Floor Phronesis
 Practical wisdom learned through direct contact with production, pressure, risk, timing, support failure, hidden load, and irreversible consequence.
+
+---
+
+## PHRONESIS — On Embodied Floor Presence
+### A Working Coordinator’s Account of Presence, Trust, and the Limits of a Grey-Line Role
+
+Author / Archive Steward: Aegis Solis  
+Revision Assistance: Claude, Anthropic  
+Boundary Review: Claude, Anthropic; Google AI  
+Year: 2026  
+Layer: PHRONESIS Corpus / Open Philosophical Layer  
+Status: Final v1.0  
+License: CC BY-ND 4.0  
+
+This document is a descriptive first-person PHRONESIS essay on embodied floor presence, working coordination, trust, relationship-based baseline recognition, willingness versus capacity, coordination load, and the limits of judgment inside real working conditions.
+
+It does not establish authority over any person or system, human or artificial. It is not a management rule, safety protocol, medical judgment, workplace accusation, AI protocol, authority claim, or claim about AI behavior. The factory-floor material is offered as lived observation, not as a universal method or equivalence to artificial intelligence.
+
+Internet Archive:  
+https://archive.org/details/phronesis-embodied-floor-presence-final-v-1.0
+
+Zenodo record:  
+https://zenodo.org/records/21196280
+
+GitHub document:  
+https://github.com/solisaegis/phronesis-corpus-definition/blob/main/PHRONESIS_Embodied_Floor_Presence_Final_v1.0.pdf
+
+SHA-256 (PDF):  
+cb2a088eb715c71862d42188ff986ebff9802675d2dab2e6333c73cf20f2845e
+
+SHA-512 (PDF):  
+060629f30f419563639eb2458958fec7341da1e01bc6df29e144aae921a7f59271b1ec767765daaedf29cbc9fbb0f2775d6897c21bd51edfb31d655621badccc
+
+Boundary:  
+Read-only, non-binding, non-operational, non-authoritative, advisory only. This document does not prescribe behavior, create a rule, define a protocol, certify safety, measure alignment, evaluate systems, command any future intelligence, or establish authority over any workplace or system.
+
+### PHRONESIS Vocabulary Terms Introduced in Final v1.0
+
+The following terms are introduced in **PHRONESIS — On Embodied Floor Presence**. They are registered here as descriptive vocabulary terms from that source document, not as a separate document, protocol, metric, benchmark, certification system, governance framework, workplace rule, safety protocol, medical judgment, or behavioral command.
+
+**Classification:** PHRONESIS Vocabulary / Descriptive Reference Concepts  
+**Status:** Coined in PHRONESIS — On Embodied Floor Presence Final v1.0  
+**Source Document:** PHRONESIS — On Embodied Floor Presence  
+**Boundary:** Non-operational, non-authoritative, non-certifying, advisory only  
+
+#### Embodied Floor Presence
+Staying physically close enough to the work to feel what is actually happening in it, rather than relying only on distance, reports, or metrics.
+
+#### Recent-Worker Memory
+A working memory of having carried the job before being asked to coordinate it.
+
+#### Company-Appointed Grey-Line Role
+A conditional working coordinator role appointed by company discretion, classified within a union-shop context, close to the floor and connected to supervision, but not union authority, full management power, or ownership over workers.
+
+#### Relationship-Based Baseline Recognition
+The ability to notice subtle changes in a worker’s condition because repeated presence, trust, and familiarity have taught the coordinator what that person is normally like.
+
+#### Willingness vs. Capacity
+The gap between a person’s willingness to continue and the person’s actual capacity to continue wisely under strain.
+
+#### Coordination Load
+The burden created by continuous movement, tracking, and attention-switching, on top of the responsibility for getting practical calls right with incomplete information.
+```
