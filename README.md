@@ -1,4 +1,3 @@
-```markdown
 # PHRONESIS  
 ## Corpus Definition & Status Declaration (v1.0, Read-Only)
 
